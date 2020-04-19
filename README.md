@@ -15,4 +15,4 @@ When looking at the devtools console/network tab, you can see that there aren't 
 
 Search request are sent as expected.
 
-It seems that when using a header with the word `exports` the search stop working.
+It seems that when using a header with the word `exports` the search stop working. Change [this line](https://github.com/ranyitz/docusaurus-algolia-exports-bug/blob/master/docs/exampledoc4.md#exports) and everything should work
