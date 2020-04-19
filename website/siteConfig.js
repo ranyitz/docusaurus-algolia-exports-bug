@@ -42,7 +42,10 @@ const siteConfig = {
     {doc: 'doc4', label: 'API'},
     {page: 'help', label: 'Help'},
     {blog: true, label: 'Blog'},
+    { search: true },
   ],
+
+  algolia: {},
   // If you have users set above, you add it here:
   users,
 
