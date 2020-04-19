@@ -17,4 +17,4 @@ Search request are sent as expected.
 
 It seems that when using a header with the word `exports` the search stop working. Change [this line](https://github.com/ranyitz/docusaurus-algolia-exports-bug/blob/master/docs/exampledoc4.md#exports) and everything should work
 
-Note: There are not valid algolia credentials, but you can see that the request doens't go out.
+Note: In the exmaple, there are not valid algolia credentials, but you can see that the request doens't go out.
